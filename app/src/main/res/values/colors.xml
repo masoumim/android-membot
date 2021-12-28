@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#90caf9</color>
+    <color name="primaryLightColor">#c3fdff</color>
+    <color name="primaryDarkColor">#5d99c6</color>
+    <color name="secondaryColor">#a5d6a7</color>
+    <color name="secondaryLightColor">#d7ffd9</color>
+    <color name="secondaryDarkColor">#75a478</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <!-- Buttons for MUSIC GAME -->
+    <color name="musicButton1">#1976d2</color>
+    <color name="musicButton1Lit">#64b5f6</color>
+    <color name="musicButton2">#d50000</color>
+    <color name="musicButton2Lit">#ff5131</color>
+    <color name="musicButton3">#2e7d32</color>
+    <color name="musicButton3Lit">#60ad5e</color>
+    <color name="musicButton4">#ffd600</color>
+    <color name="musicButton4Lit">#ffff52</color>
+    <color name="color_gray">#E0E0E0</color>
+    <color name="color_progress_none">#DC1E0B</color>
+    <color name="color_progress_full">#8BC34A</color>
+</resources>
